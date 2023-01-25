@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Inwoo Nam"
-  avatar           : # "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "백엔드 개발 공부하는 블로그입니다."
   location         : "Seoul, South Korea"
   email            :
