@@ -1,9 +1,18 @@
 # main links
 main:
-- title: "Category"
-  url: /categories/
-- title: "Tag"
-  url: /tags/
+  - title: "Home"
+    url: /
+  - title: "Category"
+    url: /categories/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: "공부"
+    children:
+      - title: "Java"
+        url: "/java/" 
+        category: "java"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
