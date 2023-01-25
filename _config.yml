@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "3a6d6a60de14004213c23dbaa006c8da8c85e81b"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -288,8 +288,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: # true
+      related: # true
       show_date: true
 
   # _pages                  : 아래를 새로 추가
