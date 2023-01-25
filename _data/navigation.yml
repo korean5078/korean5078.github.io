@@ -4,7 +4,7 @@ main:
     url: /
   - title: "Category"
     url: /categories/
-  - title: "Search"
+  - title: "🔍"
     url: /search/
 
 docs:
@@ -12,7 +12,8 @@ docs:
     children:
       - title: "Java"
         url: "/java/" 
-        category: "java"
+        category: "Java"
+        
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
