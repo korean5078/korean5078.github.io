@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-$sans-serif: 'Jua';
+$sans-serif: 'Nanum Gothic';
 $monospace: 'Ubuntu Mono';
 
 @charset "utf-8";
@@ -11,8 +11,9 @@ $monospace: 'Ubuntu Mono';
 @import "minimal-mistakes"; // main partials
 
 
-@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono');
 
 .utterances {
     max-width: 100% !important;
